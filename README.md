@@ -1,9 +1,10 @@
 # OutletDiscount
 
 Calculate U.S. Outlet 2 times discount, eg: 50% then 30%, how much you should pay?
+
 Usage:
 
-Input price and off percentage:
+#Input price and off percentage:
 
 Enter price:  1400
 
@@ -11,7 +12,7 @@ Enter 1st off:  50
 
 Enter 2nd off:  30
 
-Result:
+#Result:
 
 50.0 % off price is  700.0
 
