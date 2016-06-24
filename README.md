@@ -3,7 +3,9 @@ Calculate U.S. Outlet 2 times discount, eg: 50% then 30%, how much you should pa
 
 Input:
 Enter price:  1400
+
 Enter 1st off:  50
+
 Enter 2nd off:  30
 
 Result:
